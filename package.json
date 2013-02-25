@@ -1,0 +1,27 @@
+{
+  "name": "jarvis",
+  "description": "home automation bot",
+  "version": "0.0.1",
+  "author": "Cody Stoltman <particlebanana@gmail.com>",
+  "url": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/particlebanana/jarvis"
+  },
+  "dependencies": {
+    "johnny-five": "0.5.14",
+    "async": "0.2.5",
+    "redis": "0.8.2",
+    "hiredis": "0.1.14",
+    "request": "2.14.0"
+  },
+  "devDependencies": {
+
+  },
+  "scripts": {
+
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  }
+}
